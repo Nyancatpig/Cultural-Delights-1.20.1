@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:or",
+    "values": [
+      "minecraft:bamboo_jungle",
+      "minecraft:sparse_jungle",
+      "minecraft:jungle"
+    ]
+  },
+  "features": "culturaldelights:wild_eggplants",
+  "step": "vegetal_decoration"
+}
