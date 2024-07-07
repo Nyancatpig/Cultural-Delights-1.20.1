@@ -72,8 +72,8 @@ public class ModItems {
             () -> new Item(new Item.Properties().food(ModFoods.WHITE_EGGPLANT)));
     public static final RegistryObject<Item> CORN_COB = ITEMS.register("corn_cob",
             () -> new Item(new Item.Properties().food(ModFoods.CORN_COB)));
-    public static final RegistryObject<Item> GINGER = ITEMS.register("ginger",
-            () -> new Item(new Item.Properties().food(ModFoods.GINGER)));
+    //public static final RegistryObject<Item> GINGER = ITEMS.register("ginger",
+    //        () -> new Item(new Item.Properties().food(ModFoods.GINGER)));
 
     public static final RegistryObject<Item> SQUID = ITEMS.register("squid",
             () -> new Item(new Item.Properties().food(ModFoods.SQUID)));

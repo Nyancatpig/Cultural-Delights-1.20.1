@@ -49,7 +49,7 @@ public class CulturalDelights {
          event.accept(ModItems.CUCUMBER_SEEDS);
          event.accept(ModItems.CORN_KERNELS);
          event.accept(ModItems.EGGPLANT_SEEDS);
-         event.accept(ModItems.GINGER);
+         //event.accept(ModItems.GINGER);
          event.accept(ModItems.AVOCADO);
          event.accept(ModItems.CUT_AVOCADO);
          event.accept(ModItems.CUCUMBER);
