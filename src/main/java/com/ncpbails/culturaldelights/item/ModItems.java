@@ -66,6 +66,8 @@ public class ModItems {
 
     public static final RegistryObject<Item> SMOKED_WHITE_EGGPLANT = ITEMS.register("smoked_white_eggplant",
             () -> new Item(new Item.Properties().food(ModFoods.SMOKED_WHITE_EGGPLANT)));
+    public static final RegistryObject<Item> SMOKED_CORN = ITEMS.register("smoked_corn",
+            () -> new Item(new Item.Properties().food(ModFoods.SMOKED_CORN)));
     public static final RegistryObject<Item> WHITE_EGGPLANT = ITEMS.register("white_eggplant",
             () -> new Item(new Item.Properties().food(ModFoods.WHITE_EGGPLANT)));
     public static final RegistryObject<Item> CORN_COB = ITEMS.register("corn_cob",
